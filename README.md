@@ -1,2 +1,4 @@
-# MadinatJumeirah
-Madinat Jumeirah Admin App
+# ci-inv
+Inventory Demo
+
+Madinat Jumeirah Inventory manager
